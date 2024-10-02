@@ -213,4 +213,7 @@ public class ListSE {
         }
         return false;
     }
+
+    public void deleteById(String id) {
+    }
 }
